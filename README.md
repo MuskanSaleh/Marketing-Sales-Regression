@@ -99,6 +99,6 @@ The analysis demonstrates a significant positive relationship between radio adve
 
 1. **Clone the repository**:
    ```bash
-    https://github.com/MuskanSaleh/Marketing-Sales-Regression
+   git clone  https://github.com/MuskanSaleh/Marketing-Sales-Regression
   
    ```
