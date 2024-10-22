@@ -66,7 +66,7 @@ The regression model summary provides key insights:
 
 - **Model Equation**:
   \[
-  \text{Sales} = 8.1733 \times \text{Radio} + 41.5326
+  y{Sales} = 8.1733 * x{Radio} + 41.5326
   \]
 - **Y-intercept**: 41.5326
 - **Slope**: 8.1733 (indicates sales increase by 8.1733 million dollars for every 1 million dollar increase in radio budget)
